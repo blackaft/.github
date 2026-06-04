@@ -4,6 +4,7 @@
 
 Yup, we're a collective of biztech experts who use Github and code
 
+### 👓 Partners and locations
 
 ### 👓 Disciplines we tackle
 
