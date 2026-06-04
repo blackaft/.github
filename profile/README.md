@@ -6,7 +6,13 @@ Yup, we're a collective of biztech experts who use Github and code
 
 ### 👓 Partners and locations
 
-### 👓 Disciplines we tackle
+### How we do it
+
+We tackle work packages and outcomes during sprints, missions and (co-)ventures under a unified business goal. We embed in existing structures but can also operate without policies in place. Both draft and final project artefacts are delivered continuously on client infrastructure. And we maintain an AI-first approach to all processes and deliverables.
+
+Yes, we can demo all of this.
+
+### 👓 What we do
 
 Launching, pivoting and adopting AI require a multi-disciplinary approach and a cross-functional mindset. No no, we're not generalists. On the contrary. Each partner is a specialist in their field. Together, we specialise in these 3 types of cases.
 
@@ -63,10 +69,6 @@ Launching, pivoting and adopting AI require a multi-disciplinary approach and a 
 	<br>
 	sdfsdfdf
 </details>
-
-We tackle work packages and outcomes during sprints, missions and (co-)ventures under a unified business goal. We embed in existing structures but can also operate without policies in place. Both draft and final project artefacts are delivered continuously on client infrastructure. And we maintain an AI-first approach to all processes and deliverables.
-
-Yes, we can demo all of this.
 
 ---
 
