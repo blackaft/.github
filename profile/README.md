@@ -7,7 +7,7 @@ Yup, we're a collective of biztech experts who use Github and code
 
 ### 👓 Disciplines we tackle
 
-Launching, pivoting and adopting AI require multiple disciplines and cross-functional roles. That's not to say we're generalists or can do everything perfectly. On the contrary. Each partner is a specialist in their field. Together, we specialise in these 3 types of cases. And we're also a fit for startups and SMEs.
+Launching, pivoting and adopting AI require a multi-disciplinary approach and a cross-functional mindset. No no, we're not generalists. On the contrary. Each partner is a specialist in their field. Together, we specialise in these 3 types of cases.
 
 <details> 
 	<summary>AI Training</summary>
