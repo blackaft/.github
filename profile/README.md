@@ -42,6 +42,30 @@ Launching, pivoting and adopting AI require a multi-disciplinary approach and a 
 	<br>
 	sdfsdfdf
 </details>
+<details> 
+	<summary>Marketing & Copywriting</summary>
+	<br>
+	sdfsdfdf
+</details>
+<details> 
+	<summary>Management Consulting</summary>
+	<br>
+	sdfsdfdf
+</details>
+<details> 
+	<summary>Creative</summary>
+	<br>
+	sdfsdfdf
+</details>
+<details> 
+	<summary>Sales & Sales Operations</summary>
+	<br>
+	sdfsdfdf
+</details>
+
+We tackle work packages and outcomes during sprints/missions under a unified business goal. We embed in existing structures but can also operate without policies in place. Both draft and final project artefacts are delivered continuously on client infrastructure. And we maintain an AI-first approach to all processes and deliverables.
+
+Yes, we can demo all of this.
 
 ---
 
