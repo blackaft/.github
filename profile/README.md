@@ -40,9 +40,7 @@ Launching, pivoting and adopting AI require multiple disciplines and cross-funct
 <details> 
 	<summary>Product w/ [@ProductPanda](https://www.productpanda.ai/) & [Beegger]()</summary>
 	<br>
-	<ul>
-	<li>Test</li>
-	</ul>
+	sdfsdfdf
 </details>
 
 ---
