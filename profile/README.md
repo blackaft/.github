@@ -2,9 +2,9 @@
 
 [@blackaft](https://github.com/blackaft) is a professional services collective, founded by [@geogkary](https://github.com/geogkary) to help bring multidisciplinary delivery to solopreneurs, startups and SMEs looking to launch, pivot or adopt AI.
 
-So, let's take a look at what we got, here.
+## ☕ So what do we actually do, ah?
 
-## ☕ What do we do, ah?
+We help solopreneurs, startups and SMEs launch, pivot and adopt AI.
 
 Multiple professionals and multiple services joining forces to deliver one outcome.
 
@@ -13,6 +13,10 @@ Multiple professionals and multiple services joining forces to deliver one outco
 - Business development and co-ventures with [Zenex Innovations](https://zenexinnovations.com/) 💻.
 - AI training and transformation with [Chillrep](https://chillrep.com/) 🤖 and [Linq](https://linq.co/en/) 💼.
 - Product management, design and engineering with [ProductPanda](https://www.productpanda.ai/) 🐼 and Pavlos Tsaousakis & [Beegger](https://www.beegger.com/) 🐝
+
+Join the network on [LinkedIn](https://www.linkedin.com/company/blackaft/about/).
+
+Follow the nuggets on [X](https://x.com/blackaftx).
 
 ## 🤖 Goodies for AI, you say?
 
