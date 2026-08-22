@@ -2,9 +2,9 @@
 
 Blackaft is a professional services collective, founded by [@geogkary](https://github.com/geogkary) to help bring multidisciplinary delivery to solopreneurs, startups and SMEs looking to launch, pivot or adopt AI.
 
-![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](blackaft-associates.png)
+You are more than welcome to join us on [LinkedIn](https://www.linkedin.com/company/blackaft/about/), grab the latest via [Substack](https://blackaft.substack.com/about) or follow our nuggets on [X](https://x.com/blackaftx).
 
-You are more than welcome to join the network on [LinkedIn](https://www.linkedin.com/company/blackaft/about/), grab the newsletter on [Substack](https://blackaft.substack.com/about) and even follow our nuggets on [X](https://x.com/blackaftx).
+![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](blackaft-associates.png)
 
 ## ☕ OK, OK - here's what we do
 
