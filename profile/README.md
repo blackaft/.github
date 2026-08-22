@@ -6,9 +6,7 @@ Blackaft is a professional services collective, founded by [@geogkary](https://g
 
 ## ☕ So what do we actually do, ah?
 
-We help solopreneurs, startups and SMEs launch, pivot and adopt AI.
-
-Multiple professionals and multiple services joining forces to deliver one outcome.
+Multiple professionals and multiple services joining forces to deliver a launch, pivot or help solopreneurs, startups and SMEs adopt AI.
 
 - Creative studio with Thanos Doumas & [Flownest](https://linktr.ee/flownest_) 💻 and Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
 - Marketing, branding and positioning with Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
