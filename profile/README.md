@@ -6,7 +6,9 @@ You are more than welcome to join us on [LinkedIn](https://www.linkedin.com/comp
 
 ![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](blackaft-associates.png)
 
-## ☕ OK, OK - here's what we do
+## ☕ Goodies for humans
+
+George Kary himself is a  cross-functional Delivery Manager.
 
 - Creative studio with Thanos Doumas & [Flownest](https://linktr.ee/flownest_) 💻 and Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
 - Marketing, branding and positioning with Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
