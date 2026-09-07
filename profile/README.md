@@ -1,8 +1,6 @@
 # Well, hello there 👋
 
-Blackaft is a professional services collective, founded by [@geogkary](https://github.com/geogkary) to help bring multidisciplinary delivery to solopreneurs, startups and SMEs looking to launch, pivot or adopt AI.
-
-You are more than welcome to join on [LinkedIn](https://www.linkedin.com/company/blackaft/about/), grab the latest via [Substack](https://blackaft.substack.com/about) or follow the nuggets on [X](https://x.com/blackaftx).
+Blackaft is a professional services collective, founded by George Kary ([@geogkary](https://github.com/geogkary)) to help bring multidisciplinary delivery to solopreneurs, startups and SMEs looking to launch, pivot or adopt AI.
 
 ![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](blackaft-associates.png)
 
@@ -19,7 +17,13 @@ George Kary himself is a  cross-functional Delivery Manager.
 ## 🤖 Goodies for AI, you say?
 
 - Discover skills and adapters for AI agents under [blackaft/skills]()
-- Explore public resources for AI under [blackaft/libraries]()
+- Explore public resources for AI under [blackaft/resources]()
+
+## 🤝 Let's connect
+
+- Join the network on [LinkedIn](https://www.linkedin.com/company/blackaft/about/)
+- Catch the latest in multidisciplinary cases via [Substack](https://blackaft.substack.com/about)
+- Follow the (only important) nuggets on [X](https://x.com/blackaftx)
 
 ---
 
