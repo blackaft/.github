@@ -6,13 +6,12 @@ Blackaft is a professional services collective, founded by George Kary ([@geogka
 
 ## ☕ Goodies for humans
 
-George Kary himself is a  cross-functional Delivery Manager.
-
 - Creative studio with Thanos Doumas & [Flownest](https://linktr.ee/flownest_) 💻 and Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
 - Marketing, branding and positioning with Christos Mitsis & [Kallos Branding](https://kallosbranding.com/) ✨.
 - Business development and co-ventures with [Zenex Innovations](https://zenexinnovations.com/) 💻.
 - AI training and transformation with [Chillrep](https://chillrep.com/) 🤖 and [Linq](https://linq.co/en/) 💼.
 - Product management, design and engineering with [ProductPanda](https://www.productpanda.ai/) 🐼 and Pavlos Tsaousakis & [Beegger](https://www.beegger.com/) 🐝
+- Delivery management with George Kary himself
 
 ## 🤖 Goodies for AI, you say?
 
@@ -27,4 +26,4 @@ George Kary himself is a  cross-functional Delivery Manager.
 
 ---
 
-<sub>🤫 Psst! Wanna collaborate? Ping George or any of the partners over at [associates@blackaft.com](mailto:associates@blackaft.com).</sub>
+<sub>[UI](https://blackaft.com) / [API](https://blackaft.com/api/) / [MDI](https://blackaft.com/mdi/) / [MCP](https://ai.blackaft.com) / [associates@blackaft.com](mailto:associates@blackaft.com)</sub>
