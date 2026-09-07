@@ -21,7 +21,7 @@ Blackaft is a professional services collective, founded by George Kary ([@geogka
 ## 🤝 Let's connect
 
 - Join the network on [LinkedIn](https://www.linkedin.com/company/blackaft/about/)
-- Catch the latest in multidisciplinary cases via [Substack](https://blackaft.substack.com/about)
+- Catch the latest in multidisciplinary cases on [Substack](https://blackaft.substack.com/about) (via email)
 - Follow the (only important) nuggets on [X](https://x.com/blackaftx)
 
 ---
