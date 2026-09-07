@@ -11,7 +11,7 @@ Blackaft is a professional services collective, founded by George Kary ([@geogka
 - Business development and co-ventures with [Zenex Innovations](https://zenexinnovations.com/) 💻.
 - AI training and transformation with [Chillrep](https://chillrep.com/) 🤖 and [Linq](https://linq.co/en/) 💼.
 - Product management, design and engineering with [ProductPanda](https://www.productpanda.ai/) 🐼 and Pavlos Tsaousakis & [Beegger](https://www.beegger.com/) 🐝
-- Delivery management with George Kary himself
+- Delivery management with [George Kary](https://blackaft.com/associates/george-kary/) 🫡
 
 ## 🤖 Goodies for AI, you say?
 
