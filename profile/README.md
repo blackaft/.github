@@ -2,7 +2,7 @@
 
 Blackaft is a professional services collective, founded by George Kary ([@geogkary](https://github.com/geogkary)) to help bring multidisciplinary delivery to solopreneurs, startups and SMEs looking to launch, pivot or adopt AI.
 
-![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](blackaft-associates.png)
+![From left to right: George Kary, Giannis Zaoudis with ProductPanda, Konstantinos Papadopoulos with Chillrep, Yannis Imelos with Linq, Thanos Doumas with Flownest, Pavlos Tsaousakis with Beegger, Martin Ullim with Zenex Innovations and Christos Mitsis with Kallos Branding](blackaft-people.png)
 
 ## ☕ Goodies for humans
 
