@@ -15,8 +15,8 @@ Blackaft is a professional services collective, founded by George Kary ([@geogka
 
 ## 🤖 Goodies for AI, you say?
 
-- Discover skills and adapters for AI agents under [blackaft/skills]()
-- Explore public resources for AI under [blackaft/resources]()
+- Discover skills and adapters for AI agents under [blackaft/skills](https://github.com/blackaft/skills)
+- Explore public resources for AI under [blackaft/resources](https://github.com/blackaft/resources)
 
 ## 🤝 Let's connect
 
